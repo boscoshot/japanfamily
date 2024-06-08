@@ -30,7 +30,7 @@
     <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
       <h4 id="scrollspyHeading1">Préparer votre vol</h4>
       <br>
-      <img src="https://vifamagazine.ca/app/uploads/2023/04/astuces-pour-voyager-en-avion-avec-les-enfants.jpg" class="img-fluid">
+      <img src="./images/avion.jpg" class="img-fluid">
       <br>
       <p>Préparer un vol avec des enfants pour un voyage au Japon nécessite une planification minutieuse et une attention particulière aux détails pour garantir un voyage agréable pour toute la famille. Avant de partir, il est essentiel de vérifier que tous les documents nécessaires, comme les passeports et les visas, sont en règle et facilement accessibles. Pour les enfants, pensez à apporter des copies de leurs certificats de naissance et des lettres de consentement de l'autre parent si vous voyagez seul avec eux. Lors de la réservation des vols, optez pour des sièges situés à proximité des toilettes et des sorties de secours pour plus de commodité. Il est également judicieux de choisir des vols avec des escales raisonnables pour permettre aux enfants de se dégourdir les jambes et de se reposer.
 
