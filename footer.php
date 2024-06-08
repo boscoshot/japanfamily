@@ -1,0 +1,1 @@
+<p class="aligncenter">Copyright Cyril Duport®</p>
