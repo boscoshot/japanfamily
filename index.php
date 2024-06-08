@@ -34,7 +34,7 @@
           <img src="./images/visites-japon.jpg" class="card-img-top" alt="photos japon tokyo kyoto osaka">
           <div class="card-body">
             <h5 class="card-title">Les visites à faire</h5>
-            <p class="card-text">Découvrez les visites à faire absolument en famille au Japon !</p>
+            <p class="card-text">Les visites à faire absolument en famille au Japon !</p>
             <a href="./visites-japon.php" class="btn btn-danger">Découvrez les visites</a>
           </div>
         </div>
