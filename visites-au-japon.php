@@ -15,52 +15,27 @@
     <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3 sticky-top">
       <ul class="nav nav-pills">
         <li class="nav-item">
-          <a class="nav-link" href="#scrollspyHeading1">Préparer votre vol</a>
+          <a class="nav-link" href="#scrollspyHeading1">Tokyo</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#scrollspyHeading2">Préparer vos hébergements</a>
+          <a class="nav-link" href="#scrollspyHeading2">Kyoto</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#scrollspyHeading3">Préparer vos journées de visites</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#scrollspyHeading4">Préparer votre sac à dos</a>
+          <a class="nav-link" href="#scrollspyHeading3">Osaka</a>
         </li>
       </ul>
     </nav>
     <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
-      <h4 id="scrollspyHeading1">Préparer votre vol</h4>
+      <h4 id="scrollspyHeading1">Tokyo</h4>
       <img src="https://vifamagazine.ca/app/uploads/2023/04/astuces-pour-voyager-en-avion-avec-les-enfants.jpg" class="img-fluid">
-      <p>Préparer un vol avec des enfants pour un voyage au Japon nécessite une planification minutieuse et une attention particulière aux détails pour garantir un voyage agréable pour toute la famille. Avant de partir, il est essentiel de vérifier que tous les documents nécessaires, comme les passeports et les visas, sont en règle et facilement accessibles. Pour les enfants, pensez à apporter des copies de leurs certificats de naissance et des lettres de consentement de l'autre parent si vous voyagez seul avec eux. Lors de la réservation des vols, optez pour des sièges situés à proximité des toilettes et des sorties de secours pour plus de commodité. Il est également judicieux de choisir des vols avec des escales raisonnables pour permettre aux enfants de se dégourdir les jambes et de se reposer.
-
-Emportez dans votre bagage à main des articles essentiels pour le confort et le divertissement des enfants : des collations, des jouets, des tablettes chargées avec des jeux et des films, ainsi que des écouteurs adaptés à leur taille. Pensez aussi à apporter des couvertures et des oreillers de voyage pour qu'ils puissent dormir confortablement. Prévoyez des vêtements de rechange pour chaque enfant en cas de petits accidents ou de changements de température. Préparer une trousse de premiers soins contenant des médicaments courants, des pansements et des lingettes désinfectantes est également crucial.
-
-Enfin, préparez les enfants au décalage horaire en ajustant progressivement leur heure de coucher quelques jours avant le départ. Expliquez-leur ce à quoi ils peuvent s'attendre pendant le vol et assurez-vous qu'ils comprennent l'importance de rester assis et de suivre les consignes de sécurité. En abordant ce voyage avec une préparation soignée, vous pouvez transformer le vol en une expérience positive et excitante pour vos enfants, rendant ainsi le début de votre aventure japonaise aussi agréable que possible.
-</p>
-      <h4 id="scrollspyHeading2">Préparer vos hébergements</h4>
+      <p>À Tokyo, les activités pour enfants sont infinies et super amusantes ! Pour commencer, direction le parc d'attractions de Disneyland Tokyo, où les enfants peuvent rencontrer leurs personnages préférés et s'amuser sur des attractions palpitantes. Pour une dose de culture ludique, le musée Ghibli est une expérience incontournable avec ses expositions interactives sur les films d'animation japonais. Si vos petits sont fans de sciences, le musée des sciences Miraikan est un vrai paradis avec ses expositions interactives et ses démonstrations impressionnantes. Pour une aventure en plein air, rendez-vous au parc Ueno, où ils pourront nourrir les carpes dans les étangs, faire un tour en bateau, ou visiter le zoo. Et pour les fans de Pokémon et de jeux vidéo, une visite au Pokémon Center et au Nintendo Store est indispensable ! Ces boutiques regorgent de produits dérivés, de jeux, et d'activités qui raviront les enfants de tous âges. De plus, pour une expérience manga inoubliable, le quartier d'Akihabara est un must. Les enfants adoreront explorer les magasins de bandes dessinées, les arcades de jeux vidéo et les cafés à thème, où ils pourront rencontrer leurs personnages préférés en personne. Enfin, ne manquez pas de flâner dans les quartiers colorés comme Harajuku et Shibuya, où les boutiques kawaii et les friandises japonaises feront briller leurs yeux d'émerveillement !</p>
+      <h4 id="scrollspyHeading2">Kyoto</h4>
       <img src="https://cdn.wbtourisme.be/sites/default/files/styles/article_embedded/public/37204.jpg?itok=fQ-GRl4W&hash=420038761558c6e73e8f58969982a607bc41f95df841986771e6fe22f7e6487c" class="img-fluid">
-      <p>Préparer les hébergements pour un voyage au Japon avec des enfants demande un peu de planification pour que tout se passe bien. Lorsque vous cherchez des endroits où séjourner, assurez-vous que les hôtels ou les locations proposent des équipements pour les enfants, comme des lits supplémentaires, des chambres communicantes ou même des services de garde. Il est aussi utile de choisir des endroits avec des commodités comme des chaises hautes, des baignoires pour enfants et des menus adaptés. Les ryokans, ces auberges traditionnelles japonaises, peuvent être super pour une expérience authentique, mais vérifiez d'abord s'ils sont adaptés aux enfants et s'ils offrent des tatamis confortables pour dormir.
-
-Essayez de trouver des hébergements près des attractions touristiques, des parcs et des transports en commun pour éviter les longs trajets avec les enfants. Les appartements en location courte durée sont une bonne option car ils offrent plus d'espace et vous permettent de cuisiner, ce qui peut être pratique si vos enfants ont des préférences alimentaires spécifiques. Lisez les avis en ligne laissés par d'autres familles pour vous assurer que l'endroit est vraiment adapté aux enfants.
-
-Avant de partir, informez l'hébergement de l'âge et du nombre d'enfants pour qu'ils puissent mieux préparer votre arrivée. N'oubliez pas d'apporter quelques objets familiers de la maison, comme des doudous ou des jouets préférés, pour que les enfants se sentent à l'aise dans un nouvel environnement. En planifiant bien les hébergements, vous pouvez assurer un séjour agréable et sans stress pour toute la famille, et profiter pleinement de votre aventure japonaise.</p>
-      <h4 id="scrollspyHeading3">Préparer vos journées de visites</h4>
+      <p>À Kyoto, les activités pour enfants sont aussi variées qu'enrichissantes, mais il est vrai que les temples peuvent parfois sembler ennuyeux pour les plus jeunes. Cependant, il existe de nombreuses alternatives pour les divertir. Tout d'abord, une balade à vélo à travers les rues historiques de Kyoto peut être une expérience amusante pour toute la famille, avec des arrêts pour découvrir des quartiers pittoresques et des boutiques traditionnelles. Ensuite, le Musée International du Manga de Kyoto est un endroit passionnant où les enfants peuvent explorer l'art et la culture des bandes dessinées japonaises de manière interactive. Les jardins botaniques de Kyoto offrent également une escapade en plein air agréable, avec de vastes espaces verts pour se promener et jouer. Pour une expérience plus immersive dans la culture japonaise, une séance de kimono cosplay permettra aux enfants de revêtir des costumes traditionnels et de se prendre en photo dans des décors fantastiques. Enfin, une excursion au musée interactif Kyoto Railway Museum ravira les amateurs de trains, avec ses expositions interactives et ses simulations de conduite de train. Avec ces activités amusantes et adaptées aux enfants, Kyoto promet une aventure mémorable pour toute la famille, même en dehors des temples traditionnels.</p>
+      <h4 id="scrollspyHeading3">Osaka</h4>
       <img src="https://i.notretemps.com/1400x787/smart/2019/11/19/guide-tourisme-enfants.jpeg" class="img-fluid">
-      <p>Préparer les journées de visite au Japon avec des enfants nécessite un peu d'organisation pour que tout le monde profite du voyage. Avant de partir, faites une liste des endroits que vous voulez visiter et assurez-vous qu'ils sont adaptés aux enfants. Optez pour des attractions variées comme les parcs, les musées interactifs, et les zoos pour maintenir leur intérêt tout au long de la journée. Planifiez des pauses régulières pour permettre aux enfants de se reposer et de prendre des collations. Il est aussi judicieux de commencer les journées tôt pour éviter les foules et les files d'attente.
-
-Apportez toujours un sac à dos avec des essentiels comme des bouteilles d'eau, des collations, des chapeaux, de la crème solaire et des vêtements de rechange. Les transports en commun au Japon sont efficaces, mais assurez-vous de vérifier les itinéraires et les horaires à l'avance pour éviter les surprises. Pensez à inclure des activités ou des visites qui intéressent particulièrement vos enfants pour les garder enthousiastes et impliqués. Par exemple, une visite au célèbre musée Ghibli peut être un moment fort pour les fans d'animation.
-
-Enfin, soyez flexible et prêt à adapter votre programme selon l'énergie et l'humeur des enfants. Parfois, un simple parc ou un espace de jeu peut être tout aussi excitant qu'une grande attraction touristique. En planifiant bien et en restant attentif aux besoins de vos enfants, vous pouvez faire de chaque journée de visite une aventure mémorable pour toute la famille.</p>
-      <h4 id="scrollspyHeading4">Préparer votre sac à dos</h4>
-      <img src="https://4enfants4regardsurlemonde.files.wordpress.com/2018/08/p1030246.jpg?w=748" class="img-fluid">
-      
-<p>Préparer les sacs à dos pour un voyage au Japon avec des enfants demande un peu de réflexion pour s'assurer d'avoir tout ce qu'il faut à portée de main. Avant de partir, faites une liste des essentiels à emporter pour chaque sortie. Commencez par des bouteilles d'eau pour rester hydraté et des collations saines pour les petits creux. Pensez à inclure des chapeaux et de la crème solaire pour protéger les enfants du soleil, surtout si vous prévoyez de passer du temps à l'extérieur. 
-
-Emportez aussi des vêtements de rechange pour chaque enfant en cas de petits accidents ou de changements de météo. N'oubliez pas les lingettes et le gel désinfectant pour les mains, toujours utiles quand on voyage. Un petit kit de premiers secours avec des pansements et des médicaments de base peut également être pratique. Pour garder les enfants occupés pendant les trajets ou les moments d'attente, glissez quelques jouets ou jeux dans le sac.
-
-Enfin, assurez-vous que chaque enfant porte un bracelet d'identification ou qu'il ait sur lui vos coordonnées en cas de besoin. En préparant bien les sacs à dos, vous serez prêt à faire face à toutes les situations et à profiter pleinement de vos journées de découverte au Japon.</p>
-
-    </div>    
+      <p>À Osaka, les divertissements pour enfants sont aussi captivants que divertissants, et Universal Studios Japan est une destination incontournable pour une journée remplie de magie et d'aventure. Avec des attractions basées sur des films et des personnages bien-aimés comme Harry Potter, Jurassic Park et Minions, les enfants auront l'impression de plonger dans leurs univers préférés. La récente ouverture de la zone Mario, une première mondiale, est un véritable point fort, où les enfants peuvent se balader dans des décors inspirés de leur jeu vidéo préféré et vivre des aventures épiques. En dehors du parc à thème, Osaka offre également une multitude d'activités adaptées aux enfants. Le musée des sciences d'Osaka est une destination éducative passionnante, avec des expositions interactives sur des sujets allant de l'espace aux robots. Pour une expérience plus culturelle, une visite au château d'Osaka offre une occasion de découvrir l'histoire fascinante de la ville, avec de vastes jardins pour se promener et jouer. Enfin, Dotonbori, avec ses enseignes lumineuses et ses stands de street food, est une aventure sensorielle qui plaira à toute la famille. Avec tant d'options amusantes à explorer, Osaka promet des souvenirs inoubliables pour les enfants de tous âges.</p>
+      </div>    
   <br><br>
   <?php include 'footer.php'; ?>
     
