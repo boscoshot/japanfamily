@@ -27,7 +27,7 @@
               <a class="nav-link amenu text-light bg-black" href="./preparation-voyage.php">Préparer son voyage</a>
             </li>
             <li class="nav-item pad20 padrl">
-              <a class="nav-link amenu text-light bg-black" href="./preparation-voyage.php">Les visites à faire</a>
+              <a class="nav-link amenu text-light bg-black" href="./visites-au-japon.php">Les visites à faire</a>
             </li>
             <li class="nav-item pad20 padrl">
               <a class="nav-link amenu text-light bg-black" href="./culture-japonaise.php">La culture japonaise</a>
