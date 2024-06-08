@@ -26,7 +26,7 @@
     </nav>
     <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
       <h4 id="scrollspyHeading1">Les choses à savoir dans les transports</h4>
-      <img src="https://japon-fr.com/images/large/culture-japonaise.jpg" class="img-fluid">
+      <img src="./images/train.jpg" class="img-fluid">
       <p><br>La culture japonaise est riche en traditions et en règles de politesse, surtout dans les transports en commun. Il est important pour les adultes et les enfants de respecter ces règles pour garantir une expérience agréable pour tous. Tout d'abord, il est courant de faire la queue de manière ordonnée pour monter dans le métro ou le train, donc évitez de vous bousculer. Une fois à l'intérieur, gardez votre voix basse et évitez de perturber les autres passagers avec du bruit excessif. Les sièges prioritaires sont réservés aux personnes âgées, aux femmes enceintes et aux personnes handicapées, donc assurez-vous de les laisser disponibles si nécessaire. L'utilisation du téléphone portable est généralement découragée, donc évitez de parler fort au téléphone ou de jouer à des jeux avec le son activé. Enfin, n'oubliez pas de rester à droite sur les escalators et de laisser passer les autres sur la gauche. En respectant ces règles simples, vous contribuerez à maintenir l'harmonie et le respect dans les transports en commun au Japon.</p>
       <h4 id="scrollspyHeading2">Les choses à savoir dans la rue</h4>
       <img src="/images/glace.jpg" class="img-fluid">
