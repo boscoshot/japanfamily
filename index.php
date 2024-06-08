@@ -35,7 +35,7 @@
           <div class="card-body">
             <h5 class="card-title">Les visites à faire</h5>
             <p class="card-text">Découvrez les visites à faire absolument en famille au Japon !</p>
-            <a href="./visites-japon.html" class="btn btn-danger">Découvrez les visites</a>
+            <a href="./visites-japon.php" class="btn btn-danger">Découvrez les visites</a>
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@
           <div class="card-body">
             <h5 class="card-title">La culture japonaise</h5>
             <p class="card-text">Ce qu’il faut savoir sur la culture japonaise avant de partir !</p>
-            <a href="./culture-japonaise.html" class="btn btn-danger">Découvrez la culture</a>
+            <a href="./culture-japonaise.php" class="btn btn-danger">Découvrez la culture</a>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@
           <div class="card-body">
             <h5 class="card-title">Manger au Japon</h5>
             <p class="card-text">Nos conseils pour faire manger toute la famille au Japon !</p>
-            <a href="./manger-au-japon.html" class="btn btn-danger">Que manger au Japon?</a>
+            <a href="./manger-au-japon.php" class="btn btn-danger">Que manger au Japon?</a>
           </div>
         </div>
       </div>
