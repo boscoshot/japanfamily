@@ -40,7 +40,7 @@ Enfin, préparez les enfants au décalage horaire en ajustant progressivement le
 </p>
       <h4 id="scrollspyHeading2">Préparer vos hébergements</h4>
       <br>
-      <img src="https://cdn.wbtourisme.be/sites/default/files/styles/article_embedded/public/37204.jpg?itok=fQ-GRl4W&hash=420038761558c6e73e8f58969982a607bc41f95df841986771e6fe22f7e6487c" class="img-fluid">
+      <img src="./images/hebergement.jpg" class="img-fluid">
       <br>
       <p>Préparer les hébergements pour un voyage au Japon avec des enfants demande un peu de planification pour que tout se passe bien. Lorsque vous cherchez des endroits où séjourner, assurez-vous que les hôtels ou les locations proposent des équipements pour les enfants, comme des lits supplémentaires, des chambres communicantes ou même des services de garde. Il est aussi utile de choisir des endroits avec des commodités comme des chaises hautes, des baignoires pour enfants et des menus adaptés. Les ryokans, ces auberges traditionnelles japonaises, peuvent être super pour une expérience authentique, mais vérifiez d'abord s'ils sont adaptés aux enfants et s'ils offrent des tatamis confortables pour dormir.
 
@@ -49,7 +49,7 @@ Essayez de trouver des hébergements près des attractions touristiques, des par
 Avant de partir, informez l'hébergement de l'âge et du nombre d'enfants pour qu'ils puissent mieux préparer votre arrivée. N'oubliez pas d'apporter quelques objets familiers de la maison, comme des doudous ou des jouets préférés, pour que les enfants se sentent à l'aise dans un nouvel environnement. En planifiant bien les hébergements, vous pouvez assurer un séjour agréable et sans stress pour toute la famille, et profiter pleinement de votre aventure japonaise.</p>
       <h4 id="scrollspyHeading3">Préparer vos journées de visites</h4>
       <br>
-      <img src="https://i.notretemps.com/1400x787/smart/2019/11/19/guide-tourisme-enfants.jpeg" class="img-fluid">
+      <img src="./images/visites.jpg" class="img-fluid">
       <br>
       <p>Préparer les journées de visite au Japon avec des enfants nécessite un peu d'organisation pour que tout le monde profite du voyage. Avant de partir, faites une liste des endroits que vous voulez visiter et assurez-vous qu'ils sont adaptés aux enfants. Optez pour des attractions variées comme les parcs, les musées interactifs, et les zoos pour maintenir leur intérêt tout au long de la journée. Planifiez des pauses régulières pour permettre aux enfants de se reposer et de prendre des collations. Il est aussi judicieux de commencer les journées tôt pour éviter les foules et les files d'attente.
 
@@ -58,7 +58,7 @@ Apportez toujours un sac à dos avec des essentiels comme des bouteilles d'eau, 
 Enfin, soyez flexible et prêt à adapter votre programme selon l'énergie et l'humeur des enfants. Parfois, un simple parc ou un espace de jeu peut être tout aussi excitant qu'une grande attraction touristique. En planifiant bien et en restant attentif aux besoins de vos enfants, vous pouvez faire de chaque journée de visite une aventure mémorable pour toute la famille.</p>
       <h4 id="scrollspyHeading4">Préparer votre sac à dos</h4>
       <br>
-      <img src="https://4enfants4regardsurlemonde.files.wordpress.com/2018/08/p1030246.jpg?w=748" class="img-fluid">
+      <img src="./images/sac-a-dos.jpg" class="img-fluid">
       <br>
 <p>Préparer les sacs à dos pour un voyage au Japon avec des enfants demande un peu de réflexion pour s'assurer d'avoir tout ce qu'il faut à portée de main. Avant de partir, faites une liste des essentiels à emporter pour chaque sortie. Commencez par des bouteilles d'eau pour rester hydraté et des collations saines pour les petits creux. Pensez à inclure des chapeaux et de la crème solaire pour protéger les enfants du soleil, surtout si vous prévoyez de passer du temps à l'extérieur. 
 
