@@ -5,7 +5,7 @@
           <h1>Le Japon</h1> 
         </div>
         <div class="col">
-          <a href="./index.php"><img src="./images/logo.jpg"></a>
+          <a href="./index.php"><img src="./images/logo.jpg" alt="logo japon en famille"></a>
         </div>
         <div class="col alignleft">
           <br>
