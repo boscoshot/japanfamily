@@ -22,9 +22,6 @@
         <li class="nav-item">
           <a class="nav-link" href="#scrollspyHeading3">Les choses à savoir dans les temples</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#scrollspyHeading4">Les choses à savoir quand vous échangez avec un japonais</a>
-        </li>
       </ul>
     </nav>
     <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
