@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Le Japon en famille</title>
     <?php include 'link.php'; ?>
-    <meta name="description" content="Découvrez ce qu'il faut visiter en famille au Japon avec des enfants" />
-    <meta name="keywords" content="japon enfants famille" />
-    <meta name="robots" content="all" />
-    <meta name="language" content="fr" />
+    <meta name="description" content="Découvrez ce qu'il faut visiter en famille au Japon avec des enfants">
+    <meta name="keywords" content="japon enfants famille">
+    <meta name="robots" content="all">
+    <meta name="language" content="fr">
   </head>
   <body>
     <?php include 'header.php'; ?>
