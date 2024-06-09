@@ -45,7 +45,7 @@
           <img src="./images/culture-japonaise.jpg" class="card-img-top" alt="culture japonaise bouddha">
           <div class="card-body">
             <h5 class="card-title">La culture japonaise</h5>
-            <p class="card-text">Ce qu’il faut savoir sur la culture japonaise avant de partir !</p>
+            <p class="card-text">Nos conseils pour respecter la culture japonaise !</p>
             <a href="./culture-japonaise.php" class="btn btn-danger">Découvrez la culture</a>
           </div>
         </div>
