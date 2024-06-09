@@ -65,14 +65,14 @@
     </div>
   </div>
   <br>
-  <button id="scrollToTopBtn" class="btn btn-primary"><i class="fa-solid fa-chevron-up alignright"></i></i></button>
+  <button id="scrollTop" class="btn btn-primary"><i class="fa-solid fa-chevron-up alignright"></i></i></button>
     
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
 <script>
     $(document).ready(function(){
-        var btn = $('#scrollToTopBtn');
+        var btn = $('#scrollTop');
 
         $(window).scroll(function() {
             if ($(window).scrollTop() > 300) {
