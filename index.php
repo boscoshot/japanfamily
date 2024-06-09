@@ -36,7 +36,7 @@
           <div class="card-body">
             <h5 class="card-title">Les visites à faire</h5>
             <p class="card-text">Les visites à faire absolument en famille au Japon !</p>
-            <a href="./visites-japon.php" class="btn btn-danger">Découvrez les visites</a>
+            <a href="./visites-au-japon.php" class="btn btn-danger">Découvrez les visites</a>
           </div>
         </div>
       </div>
@@ -64,28 +64,6 @@
       </div>
     </div>
   </div>
-<button id="scrollToTopBtn" class="btn alignright"><i class="fas fa-chevron-up"></i></button>
-
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
-<script>
-    $(document).ready(function(){
-        var btn = $('#scrollToTopBtn');
-
-        $(window).scroll(function() {
-            if ($(window).scrollTop() > 400) {
-                btn.fadeIn();
-            } else {
-                btn.fadeOut();
-            }
-        });
-
-        btn.on('click', function(e) {
-            e.preventDefault();
-            $('html, body').animate({scrollTop:0}, '400');
-        });
-    });
-</script>
   <br><br>
   <?php include 'footer.php'; ?>
     
