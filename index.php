@@ -13,7 +13,7 @@
         <div class="col col-lg-8">
           <br>
           <h2 class="alignleft">Bienvenue sur notre site "Le Japon en famille" !</h2><br>
-          <p class="alignleft">Nous avons crée ce site web pour aider les parents préparant un voyage au Japon avec un ou plusieurs enfants. Lors de la préparation de notre voyage, nous avons dû éplucher de nombreux sites internet et forums pour trouver des informations pour voyager avec des enfants. Nous avons donc décider de tout regrouper ici. <br><br>Et pour commencer, nous vous proposons nos conseils pour préparer votre voyage.</p>
+          <p class="alignleft">Nous avons crée ce site web pour aider les parents préparant un voyage au Japon avec un ou plusieurs enfants. Lors de la préparation de notre voyage, nous avons dû éplucher de nombreux sites internet et forums pour trouver des informations pour voyager avec des enfants. Nous avons donc décidé de tout regrouper ici. <br><br>Et pour commencer, nous vous proposons nos conseils pour préparer votre voyage.</p>
           <button type="button" class="btn btn-danger aligncenter" onclick="window.location.href = './preparation-voyage.php';">Préparer son voyage</button>
         </div>
         
