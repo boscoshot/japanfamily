@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Le Japon en famille - Bien préparer son voyage</title>
-    <meta name="description" content="Découvrez comment préparer son voyage en famille au Japon avec des enfants" />
-    <meta name="keywords" content="japon enfants famille preparer valises voyage" />
-    <meta name="robots" content="all" />
-    <meta name="language" content="fr" />
+    <meta name="description" content="Découvrez comment préparer son voyage en famille au Japon avec des enfants">
+    <meta name="keywords" content="japon enfants famille preparer valises voyage">
+    <meta name="robots" content="all">
+    <meta name="language" content="fr">
     <?php include 'link.php'; ?>
   </head>
   <body>
