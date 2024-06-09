@@ -64,7 +64,6 @@
       </div>
     </div>
   </div>
-  <br>
   <button id="scrollToTopBtn" class="btn alignright"><i class="fas fa-chevron-up"></i></button>
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
