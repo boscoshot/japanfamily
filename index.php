@@ -57,7 +57,7 @@
           <img src="./images/manger-au-japon.jpg" class="card-img-top" alt="manger au japon sushi ramen">
           <div class="card-body">
             <h5 class="card-title">Manger au Japon</h5>
-            <p class="card-text">Nos conseils pour faire manger toute la famille au Japon !</p>
+            <p class="card-text">Comment faire manger toute la famille au Japon ?</p>
             <a href="./manger-au-japon.php" class="btn btn-danger">Que manger au Japon?</a>
           </div>
         </div>
