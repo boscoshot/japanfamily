@@ -64,19 +64,22 @@
       </div>
     </div>
   </div>
-  <button id="scrollToTopBtn" class="btn alignright"><i class="fas fa-chevron-up"></i></button>
+<div class="scroll-to-top-container">
+    <button id="scrollToTopBtn"><i class="fas fa-chevron-up"></i></button>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
 <script>
     $(document).ready(function(){
+        var btnContainer = $('.scroll-to-top-container');
         var btn = $('#scrollToTopBtn');
 
         $(window).scroll(function() {
             if ($(window).scrollTop() > 300) {
-                btn.fadeIn();
+                btnContainer.fadeIn();
             } else {
-                btn.fadeOut();
+                btnContainer.fadeOut();
             }
         });
 
