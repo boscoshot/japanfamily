@@ -73,7 +73,7 @@
         var btn = $('#scrollToTopBtn');
 
         $(window).scroll(function() {
-            if ($(window).scrollTop() > 300) {
+            if ($(window).scrollTop() > 400) {
                 btn.fadeIn();
             } else {
                 btn.fadeOut();
@@ -82,7 +82,7 @@
 
         btn.on('click', function(e) {
             e.preventDefault();
-            $('html, body').animate({scrollTop:0}, '300');
+            $('html, body').animate({scrollTop:0}, '400');
         });
     });
 </script>
