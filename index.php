@@ -65,7 +65,7 @@
     </div>
   </div>
   <br>
-  <button id="scrollTop" class="btn btn-primary"><i class="fa-solid fa-chevron-up alignright"></i></i></button>
+  <button id="scrollTop" class="btn btn-primary alignright"><i class="fas fa-chevron-up"></i></i></button>
     
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
